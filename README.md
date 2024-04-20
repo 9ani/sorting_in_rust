@@ -9,7 +9,7 @@ This Rust library provides implementations of various sorting algorithms, includ
 To use the library, simply import the desired sorting functions into your Rust project and call them with your data. See the examples below for details on how to use each sorting algorithm.
 
 ## Demo
-![Quick Sort Demo](demo/quick_sort.gif)
+![Quick Sort Demo](demo.jpg)
 
 ## Examples
 ```rust
